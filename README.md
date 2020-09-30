@@ -1,6 +1,6 @@
-## Frisbeegolf-app-to-be
+# Frisbeegolf-app-to-be
 
-# Stack
+### Stack
 
 - TypeScript
 - React
