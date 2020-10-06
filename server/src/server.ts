@@ -1,0 +1,1 @@
+console.log("Firsbeegold initialized...");
