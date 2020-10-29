@@ -15,6 +15,7 @@ const server = new ApolloServer({
 app.use("*", cors());
 app.use(compression());
 server.applyMiddleware({ app, path: "/graphql" });
+
 const httpServer = createServer(app);
 
 httpServer.listen({ port: 3000 }, (): void =>
